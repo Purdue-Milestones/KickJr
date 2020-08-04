@@ -1,0 +1,1 @@
+These are the enclosure designs I currently have for my own watch, but I’m in the process of redesigning them. I have to make the openings bigger and stuff like that to make it fit the watch correctly. The opening for the PPG module is currently too small. Same goes for the USB and SD card. If you're pretty comfy with CAD, feel free to design your own enclosure from my design.
